@@ -2,7 +2,10 @@ We (Shaine and Tal) worked on this project as a part of the web development cour
 1. HTML
 2. CSS
 3. JavaScript
-
+4. Mongo DB
+5. Python Flask
+   
+Part 1-2
 We created in this project an e-commerce store that allows its customers to buy electronic products. 
 The customers are also able to sign up and see their product list.
 
@@ -15,11 +18,16 @@ The design of the site is mainly relaying on simplicity and consistency. The app
 
 The JS code also provides validations for number of cases like password and email. 
 
+Part 3-
+In this part we tried to demonstrate the interaction with the mongoDB database and used Flask template project.
+Added user registeration and login functionality.
+Added contact page with database interaction 
+
 Usage instructions:
 
-1. Clone this project 
-2. Add the project to VScode
-3. Run the .html file from within the VScode 
-4. Enjoy
+1. Extract the file partC.zip.
+2. Run pip install-r requirements.txt
+3. Run python app.py
+4. Enjoy and Thanks
 
 
